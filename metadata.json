@@ -1,0 +1,6 @@
+{
+  "name": "Voice Control",
+  "description": "Hands-free bilingual (Hinglish & English) voice control suite and accessibility commander to control your entire Android phone with just your voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

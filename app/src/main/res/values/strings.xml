@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Voice Control</string>
+    <string name="accessibility_service_label">Voice Control Commander</string>
+    <string name="accessibility_service_description">Allows Voice Control to perform hands-free system actions such as Back, Home, Recents, Notifications, Quick Settings, Lock Screen, Screenshot, and Scroll using your voice commands in Hindi, Hinglish, or English.</string>
+    <string name="tab_commander">Commander</string>
+    <string name="tab_shortcuts">Shortcuts</string>
+    <string name="tab_guide">Commands</string>
+    <string name="tab_setup">System Setup</string>
+    <string name="mic_listening">Listening… Bolिये / Speak now</string>
+    <string name="mic_continuous">Hands-Free Radar Active</string>
+    <string name="mic_ready">Tap Mic or Enable Radar to Control Phone</string>
+    <string name="placeholder_command">Type or speak a command (e.g., \"Torch chalu karo\", \"Go home\")…</string>
+    <string name="execute_btn">Execute</string>
+    <string name="add_macro_title">Create Custom Voice Shortcut</string>
+    <string name="trigger_phrase_hint">Trigger Phrase (e.g., \"Chai time\", \"Office mode\")</string>
+</resources>
